@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Fballiano_AutodeleteProductImages>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Catalog/>
+
+            </depends>
+        </Fballiano_AutodeleteProductImages>
+    </modules>
+</config>
