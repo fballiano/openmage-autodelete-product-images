@@ -1,1 +1,2 @@
-app/*       app
+app/code/community/Fballiano/AutodeleteProductImages  app/code/community/Fballiano/AutodeleteProductImages
+app/etc/modules/Fballiano_AutodeleteProductImages.xml app/etc/modules/Fballiano_AutodeleteProductImages.xml
