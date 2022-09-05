@@ -1,25 +1,25 @@
 {
-   "name":"fballiano/openmage-autodelete-product-images",
-   "license":"OSL-3.0",
-   "type":"magento-module",
-   "description":"Delete images files from filesystem when an image is removed from the product or the product is deleted.",
-   "homepage":"https://github.com/fballiano/openmage-autodelete-product-images",
-   "require":{
-      "php":">=5.3.0",
-      "magento-hackathon/magento-composer-installer":"*"
-   },
-   "repositories":[
-      {
-         "type":"composer",
-         "url":"http://packages.firegento.com"
-      }
-   ],
-   "authors":[
-      {
-         "name":"Fabrizio Balliano",
-         "email":"fabrizio@fabrizioballiano.it",
-         "homepage":"http://fabrizioballiano.it",
-         "role":"Developer"
-      }
-   ]
+  "name": "fballiano/openmage-autodelete-product-images",
+  "license": "OSL-3.0",
+  "type": "magento-module",
+  "description": "Delete images files from filesystem when an image is removed from the product or the product is deleted.",
+  "homepage": "https://github.com/fballiano/openmage-autodelete-product-images",
+  "require": {
+    "php": ">=7.4.0",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://packages.firegento.com"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Fabrizio Balliano",
+      "email": "fabrizio@fabrizioballiano.com",
+      "homepage": "http://fabrizioballiano.com",
+      "role": "Developer"
+    }
+  ]
 }
